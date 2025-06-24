@@ -41,31 +41,13 @@ Minutes include:
  
 1. Clone the GitHub Repo
    
- git clone https://github.com/your-username/audio-minutes-app.git
+ git clone https://github.com/chuksInTech/transcript.git
  
  cd audio-to-text
-
-Replace your-username with your GitHub handle.
 
 Open in Google Colab
 
 The recommended environment is Google Colab, since it provides GPU and integrated Drive access.
-
-
- Upload the Notebook
- 
-Upload the .ipynb notebook to a new GitHub repo.
-
-
-Open the notebook in Colab via:
-
-
-Click the notebook on GitHub ➝ Click the Open in Colab badge (optional)
-
-
-Or paste this Colab link manually:
-
-https://colab.research.google.com/github/your-username/audio-minutes-app/blob/main/notebook.ipynb
 
 3. 🔑 Authentication
 
